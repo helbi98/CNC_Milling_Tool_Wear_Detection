@@ -42,7 +42,7 @@ The dataset consists of 18 experiments performed on a CNC machine, each capturin
 - Analyzed correlations to remove redundant features across experiments.
 
 ## Results
-- Successfully trained a supervised learning model to detect tool wear.
+- Successfully trained a 99% accurate supervised learning model to detect tool wear.
 - Identified key features that indicate tool degradation.
 - Visualizations and EDA confirmed patterns of wear across experiments.
 
